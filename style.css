@@ -8,6 +8,8 @@
   height: 100vh;
   width: 100%;
   background-image: url("asssets/2.png");
+  background-size: cover;
+  background-position: center;
 }
 
 .btn {
